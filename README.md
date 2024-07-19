@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm H.R.Jaya Surya Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="350" border-radius="10px" src="https://miro.medium.com/v2/resize:fit:1358/1*kIacWWXjfYBFXqIXhIuCXQ.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchiranjeevir&label=Profile%20views&color=0e75b6&style=flat" alt="iamchiranjeevir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrjayasuryasingh9&label=Profile%20views&color=0e75b6&style=flat" alt="hrjayasuryasingh9" /> </p>
 
 - 🔭 I’m currently Studying *BCA [Bachelor of Computer Applicatios]*
 
