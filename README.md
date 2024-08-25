@@ -7,15 +7,15 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hrjayasuryasingh9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hrjayasuryasingh9?label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/hrjayasuryasingh9?label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/hrjayasuryasingh9?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/hrjayasuryasingh9?label=Stars&style=social" alt="Stars" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hr-jaya-surya-singh-42693927b/" target="blank">
+  <a href="https://www.linkedin.com/in/hr-jaya-surya-singh-42693927b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/___iam_surya" target="blank">
+  <a href="https://instagram.com/___iam_surya" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
@@ -65,8 +65,8 @@
 
 <h3 align="center">LeetCode Stats:</h3>
 <p align="center">
-  <a href="https://leetcode.com/HR_Jaya_Surya_Singh/" target="blank">
-    <img src="https://leetcode-stats-api.herokuapp.com/HR_Jaya_Surya_Singh" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/hr_jayasurya_singh/" target="_blank">
+    <img src="https://leetcode-stats-api.herokuapp.com/hr_jayasurya_singh" alt="LeetCode Stats" />
   </a>
 </p>
 
@@ -74,10 +74,10 @@
 
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/hr-jaya-surya-singh-42693927b/" target="blank">
+  <a href="https://www.linkedin.com/in/hr-jaya-surya-singh-42693927b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/___iam_surya" target="blank">
+  <a href="https://instagram.com/___iam_surya" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
