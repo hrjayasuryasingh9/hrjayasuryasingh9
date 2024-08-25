@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer from India</h3>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*kIacWWXjfYBFXqIXhIuCXQ.gif" alt="coding" width="350" style="border-radius:10px;"/>
+  <img src="https://camo.githubusercontent.com/84f236a29990e0ac00a453a9230f7d6081956228df5ffdbc6f01e462b9a1856e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f42656d4b71523952444b3456322f67697068792e676966" alt="coding" width="350" style="border-radius:10px;"/>
 </p>
 
 <p align="center">
