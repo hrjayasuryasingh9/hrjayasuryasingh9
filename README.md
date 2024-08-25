@@ -63,6 +63,15 @@
 
 ---
 
+<h3 align="center">LeetCode Stats:</h3>
+<p align="center">
+  <a href="https://leetcode.com/HR_Jaya_Surya_Singh/" target="blank">
+    <img src="https://leetcode-stats-api.herokuapp.com/HR_Jaya_Surya_Singh" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/hr-jaya-surya-singh-42693927b/" target="blank">
