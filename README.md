@@ -65,8 +65,8 @@
 
 <h3 align="center">LeetCode Stats:</h3>
 <p align="center">
-  <a href="https://leetcode.com/hr_jayasurya_singh/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/hr_jayasurya_singh?theme=dark&font=roboto" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/HR_Jaya_Surya_Singh/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/HR_Jaya_Surya_Singh?theme=dark&font=roboto" alt="LeetCode Stats" />
   </a>
 </p>
 
