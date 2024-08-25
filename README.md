@@ -72,6 +72,15 @@
 
 ---
 
+<h3 align="center">DevNest Profile:</h3>
+<p align="center">
+  <a href="https://devnest.io/profile/hrjayasuryasingh9" target="_blank">
+    <img src="https://img.shields.io/badge/DevNest-%40hrjayasuryasingh9-blue" alt="DevNest Profile" />
+  </a>
+</p>
+
+---
+
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/hr-jaya-surya-singh-42693927b/" target="_blank">
