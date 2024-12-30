@@ -67,6 +67,10 @@
   <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/3001/3001764.png" alt="DSA" width="40" height="40"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" width="40" height="40"/>
+</a>
+
 </p>
 
 
